@@ -1,0 +1,1 @@
+Extrator de dados em arquivo XML gerado pela extensão chrome iTrace, responsável por captar dados coletados pelo EyeTracker Tobii Pro Fusion. Algoritmo desenvolvido com o objetivo de coletar os dados retornados pela extensão, a fim de tornar possível a análise estatística dos dados coletdos ao longo dos experimentos.
